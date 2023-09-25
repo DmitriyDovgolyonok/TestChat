@@ -1,0 +1,3 @@
+/Users/dmitriy/CLionProjects/TestChat/Server/cmake-build-debug/CMakeFiles/Server.dir
+/Users/dmitriy/CLionProjects/TestChat/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitriy/CLionProjects/TestChat/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
