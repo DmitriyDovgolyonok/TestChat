@@ -17,4 +17,4 @@ Once the server is running and you have connected your chat client, you can use 
 
 [SSL Certificates](./Server/cmake-build-debug)
 
-[Result](./img/test.png)
+[Result](./img/img.png)
